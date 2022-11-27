@@ -19,4 +19,4 @@ Esquema conceitual focado no sistema de Ordem de Serviço de uma oficina, desde 
 
 ### Projeto
 
-![image](img/oficina.png)
+![image](img/Modelo-Oficina.png)
